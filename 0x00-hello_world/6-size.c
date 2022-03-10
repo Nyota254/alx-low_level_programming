@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * op_add - This function prints size of elements in machine
+ * main - This function prints size of elements in machine
  *
  * Return: 0
  */
