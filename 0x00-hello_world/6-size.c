@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	/*
+	/**
 	 * This program prints out size of computer its being run on
 	 *
 	 */
