@@ -3,6 +3,8 @@
 /**
  * _islower - returns 1 if value is lowercase
  * 
+ * @c: interger param to be checked
+ * 
  * Return: 1 if value is lowercase
  */
 
