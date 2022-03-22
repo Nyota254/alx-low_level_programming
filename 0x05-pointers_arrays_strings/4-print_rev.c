@@ -11,6 +11,8 @@ void print_rev(char *s)
 {
     int counter;
 
+    int num;
+
     counter = 0;
 
     while(s[counter] != '\0')
@@ -18,8 +20,6 @@ void print_rev(char *s)
         counter++;
     }
 
-    int num;
-    
     num = counter;
 
     while(s[num] >= 0)
