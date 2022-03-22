@@ -22,11 +22,9 @@ void print_rev(char *s)
 
     num = counter;
 
-    while(num > 0)
+    while(num >= 0)
     {
         _putchar(s[num]);
         num--;
     }
-    
-    _putchar('\n');
 }
