@@ -1,0 +1,5 @@
+#ignore _putchar.c programme
+_putchar.c
+
+#ignore testing.c
+test.c
